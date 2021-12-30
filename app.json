@@ -1,0 +1,9 @@
+{
+  "name": "vector",
+  "description": "Log forwarding via vector",
+  "buildpacks": [
+    {
+      "url":"https://github.com/anglinb/vector-heroku-buildpack.git"
+    }
+  ]
+}
